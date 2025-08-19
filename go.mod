@@ -1,4 +1,4 @@
-module github.com/emiago/sipgo
+module github.com/smlr/sipgo
 
 go 1.23.0
 

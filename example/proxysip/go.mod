@@ -1,8 +1,8 @@
 module github.com/emiago/sipgo/example/proxysip
 
-go 1.22
+go 1.23.0
 
-toolchain go1.23.1
+toolchain go1.23.9
 
 replace github.com/emiago/sipgo => ../../
 
