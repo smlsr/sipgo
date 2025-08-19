@@ -4,6 +4,8 @@ go 1.23.0
 
 toolchain go1.24.2
 
+// comment
+
 require (
 	github.com/gobwas/ws v1.3.2
 	github.com/google/uuid v1.6.0
